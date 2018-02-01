@@ -38,7 +38,7 @@ This is intended to be a living document, subject to change and edits at any tim
 * When you make someone happy, that happiness will affect you more than them.
 * If you hurt someone, you will get hurt more than them.
 * There is not "the one", mathematically and pattern-wise there is the milions but Investing in relationship is no different than investing in markets. And you know the right one after up and downs. 
-
+* Pets are here to show us relationship is simple
 
 ### Creating
 * Creating is one of most joyful things in the life
