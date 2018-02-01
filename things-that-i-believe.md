@@ -2,63 +2,46 @@
 
 This is intended to be a living document, subject to change and edits at any time.
 
-*Last edited: 12/25/13*
+*Last edited: 02/01/18*
 
 ### Life
-* The best things in life almost don't happen.
-* There are no rules.
-* Life is about three things: Storytelling, Contrast, and making decisions easy for other people.
-* No one knows anything.
-* Most people express opinions as facts.
-* Go.
-* It's important to be flexible with beliefs; my beliefs and opinions may change with the facts.
-* A man should have a mystery about him, how he does all that he does.
-* Take information, synthesize it for yourself and then form your opinion.
-* I'm only racing me.
-* Only measure yourself against yourself.
-* Confidence and direct attacks in the face of fear.
-* Humor comes from our differences and timing.
-* College is about transporting information from the first day to the last. You don't have to learn anything, really, other than how to play the game. 
-
+* You have 86400 seconds each day and must use them wisely
+* Fear is imaginary limit people impose on themselves
+* College is a way to pretend you are learning something, so later in work life you can pretend to be working. useless
+* My future-self is begging me for hard work today
+* I love how life can be predicted by looking at patterns
+* Biggest problems in life have a simple solution
+* It is harder to fail than to succeed
+* Life have a flow, you will have a hard time if you go against the flow but it is rewarding to go against the flow.
 
 ### The Universe
-* There's something magical about the ocean; it's the perfect metaphor for anything you're going through.
-* I believe in God, I'm just not sure what to do with that belief yet.
-* I really want there to be something after life.
-* Mathematically, there have to be other life forms out there.
-
+* I believe by time I die, human will advance and I will continue to live inside a robot body integrated with a NPU clone of my brain
+* Luck or destiny is a just a coincidence that people name it to make themselves feel good about what is happening around them
+* We might be running in a simulated world and one day we might find a memory leak and get access to life's core kernel.
+* Blackholes are proof of limiteless possibilities
 
 ### Self
-* Always trust your gut.
-* "What you are thinking about you are becoming." - Muhammad Ali
-* Do the next one.
-* I hope I'm always this good at falling asleep.
-* Everything is linked to exercise: eating well, sleeping, discipline.
-* Surround yourself with physical books. If you enjoyed an ebook, buy a physical copy too.
-
+* I fly where I should fall
+* Don't trust yourself and nobody else. Stay alert and research about everything
+* If I have correct "why" for what I am doing, I can accomplish almost everything
+* 99% of people are not great. Comparing to others, even 1% more effort in everything will go a long way.
+* Train your brain every morning before training your body and muscles. Strong brain will develop strong everything.
 
 ### Work/Business
-* I work really well off of a to-do list.
-* It's important to take chances on people.
-* Mentors are important, so is disagreeing with them.
-* Make decisions and reflect on them often.
-
+* Don't give up but be flexible and change the approach
+* Always find new ways to do something shorter and quicker
+* Sharpen your axe before cutting the tree
+* Disagree and Don't be slave. be your own boss.
 
 ### Relationships
-* Fidelity is of the utmost importance.
-* We're all going through the same things. Reach out. The worst you can get is a 'no.'
-* Surprise and spotanaety are important.
-* Marriage should be extended to everyone.
+* Harmoney elavate everything
+* When you make someone happy, that happiness will affect you more than them.
+* If you hurt someone, you will get hurt more than them.
+* There is not "the one", mathematically and pattern-wise there is the milions but Investing in relationship is no different than investing in markets. And you know the right one after up and downs. 
 
 
 ### Creating
-* A man should build things with his hands.
-* The details are the product.
-* Momentum is a hell of a drug.
-* Build things and tell people.
-* The more consistent you are with what you're working on, the more people notice.
-* When you put something you've created out there, all kinds of unexpected options and people come into your world.
-* It's always terrifying to push the thing out the door.
-* Teams and communities produce more than the sum of their parts.
-* Everything is built in a million little steps; do as many steps well as you can each day.
-* Work with those with the drive, and that fit culturally. Not necessarily the most qualified.
+* Creating is one of most joyful things in the life
+* If you create what you are passionate about, you will get rewarded for it monetary and non-monetary and rewards can get out of your control, expectation and imagination
+* A team only works well if all members are passionate about product and their focus be product itself, not rewards
+* Everybody is a creator. You are creator of your own life. Create wisely.
