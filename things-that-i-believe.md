@@ -2,9 +2,10 @@
 
 This is intended to be a living document, subject to change and edits at any time.
 
-*Last edited: 02/01/18*
+*Last edited: 07/03/18*
 
 ### Life
+* How old you have to be to finally understand what is going on?
 * You have 86400 seconds each day and must use them wisely
 * Fear is imaginary limit people impose on themselves
 * College is a way to pretend you are learning something, so later in work life you can pretend to be working. useless
